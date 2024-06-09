@@ -1,12 +1,13 @@
 # Hello! 👋
 
-I am Ishan Vepa, a second year Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
+I am Ishan Vepa, a third year Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
 I also pursue creative passions such as video production and music. I have produced documentaries, and am a jazz saxophonist musician.
 
 # Programming Languages 🌐
 ## Know/Using
 - Java
 - C
+- C#
 - Python
 - HTML
 - CSS
