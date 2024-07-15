@@ -4,18 +4,31 @@ I am Ishan Vepa, a third year Computer Science student at Georgia Tech with a co
 I also pursue creative passions such as video production and music. I have produced documentaries, and am a jazz saxophonist musician.
 
 # Programming Languages 🌐
-## Know/Using
 - Java
 - C
 - C#
 - Python
 - HTML
 - CSS
-- Next.js w/ Tailwind CSS & Typescript
+- Javascript
+- Typescript
+- React.js
+- React Native
 - Assembly
 
+# Technologies 
+- ASP.NET
+- Next.js
+- React.js
+- React Native
+- Flask
+- jQuery
+- BeautifulSoup
+- JUnit
+- AWS API
+
+
 # Tools 🛠️
-## Know/Using
 - Figma
 - AWS Amplify
 - Tableau
