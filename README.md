@@ -12,8 +12,6 @@ When I am not programming you may find me transcribing jazz records, trying new 
 - CSS
 - Javascript
 - Typescript
-- React.js
-- React Native
 - Assembly
 
 # Technologies 
