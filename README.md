@@ -15,15 +15,17 @@ When I am not programming you may find me transcribing jazz records, trying new 
 - Assembly
 
 # Technologies 
-- ASP.NET
-- Next.js
-- React.js
-- React Native
 - Flask
+- REST API
+- RAG API
+- React.js
+- LangChain FAISS
+- Next.js
+- React Native
+- ASP.NET
+- JUnit
 - jQuery
 - BeautifulSoup
-- JUnit
-- AWS API
 
 
 # Tools 🛠️
