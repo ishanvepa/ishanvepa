@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Ishan Vepa, a third year Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
+I am Ishan Vepa, a BS/MS Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
 When I am not programming you may find me transcribing jazz records, trying new cold brews, or watching premier league soccer (GGMU ifykyk).
 
 # Programming Languages 🌐
