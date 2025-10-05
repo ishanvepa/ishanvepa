@@ -3,18 +3,18 @@
 I am Ishan Vepa, a BS/MS Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
 When I am not programming you may find me transcribing jazz records, trying new iced shaken espressos, or watching premier league soccer (GGMU ifykyk).
 
-# Programming Languages 🌐
+# Programming Languages 🖥️
 - Java
-- C
-- C#
 - Python
+- Javascript
+- C#
+- C
 - HTML
 - CSS
-- Javascript
 - Typescript
 - Assembly
 
-# Technologies 
+# Technologies 🚀
 - Flask
 - RESTful API Design
 - RAG
@@ -22,6 +22,7 @@ When I am not programming you may find me transcribing jazz records, trying new 
 - React.js
 - LangChain
 - LangGraph
+- Pandas
 - Next.js
 - React Native
 - ASP.NET
@@ -35,8 +36,9 @@ When I am not programming you may find me transcribing jazz records, trying new 
 - AWS Amplify
 - Tableau
 - Git
+- Docker
 
-# Links 📫
+# Links 🌐
 
 <!--| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://ishanvepa.com) -->
 | [<img src="https://www.ishanvepa.com/largeishan_favicon(1).png" alt="ishan_logo" width="34">](https://ishanvepa.com)
@@ -45,4 +47,4 @@ When I am not programming you may find me transcribing jazz records, trying new 
 
 Contact Me:
 
-ishanvepa171@gmail.com
+📫 ishanvepa171@gmail.com
