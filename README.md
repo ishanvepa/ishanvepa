@@ -1,7 +1,7 @@
 # Hello! 👋
 
 I am Ishan Vepa, a BS/MS Computer Science student at Georgia Tech with a concentration in Human-Computer Interaction.
-When I am not programming you may find me transcribing jazz records, trying new iced shaken espressos, or watching premier league soccer (GGMU ifykyk).
+When I am not programming you may find me transcribing jazz records, trying new iced shaken espressos, or watching premier league soccer (GGMU).
 
 # Links 🌐
 
